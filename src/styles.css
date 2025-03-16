@@ -1,11 +1,16 @@
 body {
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
     background-color: #cce7ff; /* Bleu clair */
+    margin: 0;
+}
+
+#clockContainer
+{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    margin: 0;
+    flex-direction: column;
+    min-height: 30vh;
 }
 
 #clock {
@@ -16,4 +21,11 @@ body {
     border-radius: 15px; /* Bords arrondis */
     background-color: #fff;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Ombre plus marquée */
+}
+
+#gameCanvas {
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #333;
+    background-color: #000;
 }
