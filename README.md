@@ -2,6 +2,10 @@
 
 Ce projet est une application web simple qui affiche un décompte jusqu'au 25 octobre 2038 à 12:00, avec comme indication "Temps restant avant la fin du monde".
 
+## Version en ligne
+
+Vous pouvez consulter la version en ligne de ce projet ici : [Décompte avant la fin du monde](https://nicolas-van.github.io/test-copilot-project/)
+
 ## Structure du projet
 
 Le projet contient les fichiers suivants :
@@ -23,4 +27,4 @@ Le projet contient les fichiers suivants :
 
 ## Auteurs
 
-Ce projet a été créé pour démontrer une application web simple en JavaScript avec un décompte dynamique.
+Ce projet a été entièrement généré par GPT, un modèle d'intelligence artificielle développé par OpenAI.
