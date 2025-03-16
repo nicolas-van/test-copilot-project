@@ -1,0 +1,19 @@
+body {
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    background-color: #cce7ff; /* Bleu clair */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#clock {
+    font-size: 48px; /* Taille réduite */
+    color: #333;
+    border: 2px solid #333;
+    padding: 30px; /* Plus d'espace */
+    border-radius: 15px; /* Bords arrondis */
+    background-color: #fff;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Ombre plus marquée */
+}
